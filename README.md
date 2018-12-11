@@ -8,7 +8,7 @@
 + 不受服务器软件环境约束
 
 ## Usage
-- 下载文件到本地电脑:[点击下载](https://github.com/Tsingtong/request_url_shellscript/archive/master.zip)
+- 下载本项目(项目内已经包含脚本及待测url)到本地电脑:[点击下载](https://github.com/Tsingtong/request_url_shellscript/archive/master.zip)
 - 用WinSCP:[点击下载](http://139.199.124.196/liuqingtong/WinSCP-5.13.5-Setup.exe)或其他sftp软件传输解压后的文件夹到<b>待测试的服务器用户根目录或其他位置</b>[WinSCP使用教程](https://jingyan.baidu.com/article/ed2a5d1f346fd409f6be179a.html)
 - ```cd request_url_shellscript-master```
 - ```chmod +x http_status.sh && ./http_status.sh```
