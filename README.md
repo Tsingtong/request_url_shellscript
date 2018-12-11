@@ -1,6 +1,6 @@
 # request_url_shellscript
-运行脚本，将从当前目录下的*_sites.txt文件逐行读取待测url，检测http_status_code，并统计成功与错误状态码个数<br/>
->脚本运行截图：<br/>
+运行脚本，脚本将从当前目录下的*_sites.txt文件逐行读取待测url，检测http_status_code，并统计出成功与错误状态码个数<br/>
+>脚本运行结果截图：<br/>
 ![image](https://github.com/Tsingtong/request_url_shellscript/raw/master/png/1.png)
 
 ## Features
