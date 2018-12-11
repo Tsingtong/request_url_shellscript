@@ -1,0 +1,8 @@
+http://archive.ubuntu.com/
+http://cn.archive.ubuntu.com/
+http://mirrors.tuna.tsinghua.edu.cn/
+http://mirror.neu.edu.cn/
+http://mirrors.ustc.edu.cn/
+http://archive.ubuntu.com/
+http://mirrors.sohu.com/
+http://mirrors.163.com/
